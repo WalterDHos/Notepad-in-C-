@@ -1,0 +1,30 @@
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.exe
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.deps.json
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.runtimeconfig.json
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.runtimeconfig.dev.json
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.dll
+E:\NotepadAgain\bin\Debug\netcoreapp3.1\NotepadAgain.pdb
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.csprojAssemblyReference.cache
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.Form1.resources
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.csproj.GenerateResource.cache
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.AssemblyInfoInputs.cache
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.AssemblyInfo.cs
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.csproj.CoreCompileInputs.cache
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.dll
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.pdb
+E:\NotepadAgain\obj\Debug\netcoreapp3.1\NotepadAgain.genruntimeconfig.cache
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.exe
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.deps.json
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.runtimeconfig.json
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.runtimeconfig.dev.json
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.dll
+E:\DefinitiveNotepad - Copy\bin\Debug\netcoreapp3.1\NotepadAgain.pdb
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.csprojAssemblyReference.cache
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.Form1.resources
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.csproj.GenerateResource.cache
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.AssemblyInfoInputs.cache
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.AssemblyInfo.cs
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.csproj.CoreCompileInputs.cache
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.dll
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.pdb
+E:\DefinitiveNotepad - Copy\obj\Debug\netcoreapp3.1\NotepadAgain.genruntimeconfig.cache
